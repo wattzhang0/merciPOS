@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MerciPOS</string>
+    <string name="login_name">ลงชื่อ</string>
+    <string name="branch_name">สาขา</string>
+    <string name="password_name">รหัสผ่าน</string>
+    <string name="ok_name">ตกลง</string>
+    <string name="menu_name">รายการ</string>
+    <string name="sale_name">ขาย</string>
+    <string name="conclude_name">สรุปยอด</string>
+    <string name="add_name">เพิ่ม</string>
+    <string name="remove_name">ลบ</string>
+</resources>
